@@ -1,0 +1,44 @@
+{
+    "gloveColors": [
+        [0, 0, 0, 0],
+        [34, 29, 180, 0],
+        [9, 65, 2, 0],
+        [99, 58, 35, 0],
+        [21, 138, 247, 0],
+        [154, 153, 67, 0],
+        [137, 101, 171, 0],
+        [90, 106, 253, 0]
+    ],
+    "set": [
+        {
+            "unnormalized_image": "0.png"
+        },
+        {
+            "unnormalized_image": "10.png"
+        },
+        {
+            "unnormalized_image": "20.png"
+        },
+        {
+            "unnormalized_image": "30.png"
+        },
+        {
+            "unnormalized_image": "40.png"
+        },
+        {
+            "unnormalized_image": "50.png"
+        },
+        {
+            "unnormalized_image": "60.png"
+        },
+        {
+            "unnormalized_image": "70.png"
+        },
+        {
+            "unnormalized_image": "80.png"
+        },
+        {
+            "unnormalized_image": "90.png"
+        }
+    ]
+}
